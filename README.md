@@ -21,7 +21,7 @@ The goal is to understand what factors increase the likelihood of customer churn
 This is a driver analysis project, not a deployment-ready production system.
 
 
-##Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 

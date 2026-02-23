@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project analyzes customer churn in a anonymous multinational banking dataset to identify the key features that drive customer exit behavior. Data is obtained from Kaggle.
+This project analyzes customer churn in a anonymous multinational banking dataset to identify the key features that drive customer exit behavior. Data source is obtained from [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn).
 
 The focus of this study is interpretability and business insight. A logistic regression (logit) model was used to:
 

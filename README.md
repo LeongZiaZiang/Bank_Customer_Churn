@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project analyzes customer churn in a anonymous multinational banking dataset to identify the key features that drive customer exit behavior.
+This project analyzes customer churn in a anonymous multinational banking dataset to identify the key features that drive customer exit behavior. Data is obtained from Kaggle.
 
 The focus of this study is interpretability and business insight. A logistic regression (logit) model was used to:
 
@@ -62,7 +62,7 @@ $$ \textrm{Expected Profit} = ( \textrm{TP} × \textrm{Customer Lifetime Value})
 Using the confusion matrix, we estimate the financial implications of different threshold choices.
 
 
-#### Future Improvements
+## Future Improvements
 
 - Compare with tree-based models (e.g., XGBoost)
 

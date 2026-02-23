@@ -57,8 +57,7 @@ The threshold balances churn detection with intervention cost efficiency.
 
 To align model performance with business value, an expected profit equation was introduced:
 
-Expected Profit =
-(TP × Customer Lifetime Value) − (FP × Retention Cost)
+$$ \textrm{Expected Profit} = (TP × \textrm{Customer Lifetime Value}) − (FP × \textrm{Retention Cost}) $$
 
 Using the confusion matrix, we estimate the financial implications of different threshold choices.
 

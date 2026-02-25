@@ -60,7 +60,7 @@ To align model performance with business value, an expected profit equation was 
 
 $$ \textrm{Expected Profit} = ( \textrm{TP} × \textrm{Customer Lifetime Value}) − ( \textrm{FP} × \textrm{Retention Cost}) $$
 
-Using the confusion matrix,assume customer lifetime value is \\$1000 and retention cost offer is \\$100. We obtained a profit of \\$60,600
+Using the confusion matrix,assume customer lifetime value is \$1000 and retention cost offer is \$100. We obtained a profit of \$60,600
 
 
 ## Future Improvements

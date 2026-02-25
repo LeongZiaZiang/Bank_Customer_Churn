@@ -37,6 +37,7 @@ Dataset contains ~20.4% churned customers
 
 - Model outputs were interpreted using odds ratios to quantify risk impact.
 
+- Main drivers identified: Credit score, age, balance, geographical location, gender, activeness.
 ### 3. Threshold Optimization
 
 - ROC-AUC analysis
@@ -59,7 +60,7 @@ To align model performance with business value, an expected profit equation was 
 
 $$ \textrm{Expected Profit} = ( \textrm{TP} × \textrm{Customer Lifetime Value}) − ( \textrm{FP} × \textrm{Retention Cost}) $$
 
-Using the confusion matrix, we estimate the financial implications of different threshold choices.
+Using the confusion matrix,assume customer lifetime value is \\$1000 and retention cost offer is \\$100. We obtained a profit of \\$60,600
 
 
 ## Future Improvements
